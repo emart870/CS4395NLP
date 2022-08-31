@@ -1,4 +1,6 @@
 # CS4395NLP
 This is my portfolio for my Human Language Technologies class
 
-You can see [code here](test.py) and it is pretty neat
+## Portfolio Assignment 0: Getting Started
+
+You can see [the "Overview of NLP" pdf here](Overview of NLP.pdf)
