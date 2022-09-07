@@ -15,3 +15,7 @@ The program is written in Python, importing pathlib, sys, re, and pickle. Before
 The strengths of python text processing include the fact that python has many built-in functions for string manipulations and for file I/O. As for weaknesses, regex is still somewhat unintuitive, even in Python. Furthermore, at least in the PyCharm IDE I am using, the autocompletion made certain regex annoying to type out
 ### Learning and Review
 This was the first time I've ever heard of pickle files so it was cool to learn about them. I've also never done much regex in Python before so that was also a learning experience. As for review, making and working with Objects and with file I/O were all concepts I've learned and worked on before
+
+## Portfolio Assignment 2:  Exploring NLTK
+
+You can see assignment 2 pdf [here](Homework2_axg180112.pdf)
