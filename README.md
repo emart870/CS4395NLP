@@ -19,3 +19,8 @@ This was the first time I've ever heard of pickle files so it was cool to learn 
 ## Portfolio Assignment 2:  Exploring NLTK
 
 You can see assignment 2 pdf [here](Homework2_axg180112.pdf)
+
+## Portfolio Assignment 3: Word Guess Game
+You can see assignment 3 code [here](Homework3_axg180112.py)
+### What the program does
+The program reads in a file, tokenizes it, lemmantizes each token, part-of-speech tags each lemma, collects all the lemmas that were tagged as nouns, counts how often each noun appears, collects the top 50 most common nouns, and plays a word-guessing game with the user using the list of top 50 common nouns
