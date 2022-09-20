@@ -143,9 +143,6 @@ def guessingGame(commonNouns):
       print("\nGame is now over. The word was", wordToGuess)
 
 if __name__ == "__main__":
-#  for arg in sys.argv:
-#    print(arg)
-  
   if len(sys.argv) < 2:
     fp = input("Please enter a filename as a system arg")
   else:
