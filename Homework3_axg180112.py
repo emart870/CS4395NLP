@@ -7,19 +7,16 @@ Original file is located at
     https://colab.research.google.com/drive/1mNTzpKjlOtADuiamKjAfYDaSWg22Ts2w
 """
 
-# Commented out IPython magic to ensure Python compatibility.
-# %%capture
-# #Step 0: Import Statements
-# import re
-# import random
-# import sys
-# #import nltk
-# from nltk import pos_tag
-# from nltk import word_tokenize
-# from nltk.corpus import stopwords
-# from nltk.stem import WordNetLemmatizer
-# 
-# nltk.download("all")
+#Step 0: Import Statements
+import re
+import random
+import sys
+import nltk
+from nltk import pos_tag
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+nltk.download("all")
 
 #Step 1: Reading in the File and Removing New-Line Characters
 def readInFile(path):
