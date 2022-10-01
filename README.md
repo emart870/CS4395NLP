@@ -29,4 +29,4 @@ The program reads in a file, tokenizes it, lemmantizes each token, part-of-speec
 You can see assignment 4 pdf [here](Homework4_axg180112.pdf)
 
 ## Portfolio Assignment 5: Ngrams
-You can see assignment 5 code [here](Homework5_axg180112.py) and assignment 5 pdf [here](Ngram Narrative.pdf)
+You can see assignment 5 code [here](Homework5_axg180112.py) and assignment 5 pdf [here](NgramNarrative.pdf)
