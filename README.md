@@ -26,7 +26,10 @@ You can see assignment 3 code [here](Homework3_axg180112.py)
 The program reads in a file, tokenizes it, lemmantizes each token, part-of-speech tags each lemma, collects all the lemmas that were tagged as nouns, counts how often each noun appears, collects the top 50 most common nouns, and plays a word-guessing game with the user using the list of top 50 common nouns
 
 ## Portfolio Assignment 4: WordNet
-You can see assignment 4 pdf [here](Homework4_axg180112.pdf)
+You can see the assignment 4 pdf [here](Homework4_axg180112.pdf)
 
 ## Portfolio Assignment 5: Ngrams
-You can see assignment 5 code [here](Homework5_axg180112.py) and assignment 5 pdf [here](NgramNarrative.pdf)
+You can see the assignment 5 code [here](Homework5_axg180112.py) and the assignment 5 pdf [here](NgramNarrative.pdf)
+
+## Portfolio Assignment 6: Web Crawling
+You can see the assignment 6 code [here](Homework6_axg180112.py) and the assignment 6 pdf [here](webCrawlingWriteUp.pdf)
