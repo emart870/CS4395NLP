@@ -73,7 +73,7 @@ def filesToString():
 
 def getImportantWords():
     text = filesToString()
-    wordCount = {word:text.count(word + " ") for word in set(text.split(" "))}
+    wordCount = {word:text.count(word + " ") for word in set(text.split(" ")) if len(word) > 2}
     wordCount = sorted(wordCount.items(), key=lambda item: item[1], reverse=True)
     return wordCount
 
@@ -96,6 +96,7 @@ if __name__ == "__main__":
     webScraping(links)
     for i in range(len(links)):
         sentencesFromFile(i+1)
+    print(getImportantWords()[:40])
     importantWordList = ["books", "testament", "new", "bible", "canon",
                          "canonical", "church", "hebrew", "christian", "apocrypha"]
     importantWordDictionary = generateKnowledgeBase(importantWordList)
