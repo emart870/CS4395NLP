@@ -33,3 +33,6 @@ You can see the assignment 5 code [here](Homework5_axg180112.py) and the assignm
 
 ## Portfolio Assignment 6: Web Crawling
 You can see the assignment 6 code [here](Homework6_axg180112.py) and the assignment 6 pdf [here](webCrawlingWriteUp.pdf)
+
+## Portfolio Assignment 7: Sentence Parsing
+You can see the assignment 7 pdf [here](Homework7_axg180112.pdf)
