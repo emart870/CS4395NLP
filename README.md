@@ -36,3 +36,6 @@ You can see the assignment 6 code [here](Homework6_axg180112.py) and the assignm
 
 ## Portfolio Assignment 7: Sentence Parsing
 You can see the assignment 7 pdf [here](Homework7_axg180112.pdf)
+
+## Portfolio Assignment 8: Author Attribution
+You can see the assignment 8 pdf [here](Homework8_axg180112.pdf)
