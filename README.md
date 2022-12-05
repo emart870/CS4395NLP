@@ -42,3 +42,6 @@ You can see the assignment 8 pdf [here](Homework8_axg180112.pdf)
 
 ## Portfoli Assignment 9: Reading ACL Papers
 You can see the assignment 9 pdf [here](Homework9_axg180112.pdf)
+
+## Portfoli Assignment: Text Classification
+You can see the pdf [here](TextClassification.pdf)
